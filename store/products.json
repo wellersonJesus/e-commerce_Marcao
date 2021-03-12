@@ -1,0 +1,32 @@
+{
+    "products": [{
+            "name": "Bermuda Treino-shirt",
+            "price": "135.99",
+            "options": [
+                { "Tamanho": "Pequeno,Medio,Grande,GG,EXG" }
+            ],
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/BermudaMarcaoJjTeam.png",
+            "description": "Bermuda de treino"
+        },
+        {
+            "name": "Cool T-shirt",
+            "price": "15.99",
+            "options": [
+                { "Tamanho": "Pequeno,Medio,Grande,GG,EG" },
+                { "Cor": "Branco,Azul,Preto" },
+                { "OneOfAKind": true }
+            ],
+            "image": "http://upload.wikimedia.org/wikipedia/commons/2/24/Blue_Tshirt.jpg",
+            "description": "This is a really cool blue T-shirt"
+        },
+        {
+            "name": "Fun T-shirt",
+            "preço": "15.99",
+            "options": [
+                { "Tamanho": "Pequeno,Medio,Grande,GG,EG" }
+            ],
+            "image": "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
+            "description": "This is another fun grey T-shirt"
+        }
+    ]
+}
